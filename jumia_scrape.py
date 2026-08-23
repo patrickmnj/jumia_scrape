@@ -5,7 +5,6 @@ import pandas as pd
 url ="https://www.jumia.co.ke/"
 
 response = requests.get(url)
-# rate_url = "https://api.frankfurter.dev/v2/rate/KES/USD"
 
 
 
@@ -60,7 +59,7 @@ for item in items[:100]:
     print("item:", item_name)
     print("price:", price_text)
     print("USD:", round(price_usd, 2))
-    print("-" * 50)
+    print("-" * 129)
     
 df =pd.DataFrame(scraped_items)
 
