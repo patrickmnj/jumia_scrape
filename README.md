@@ -36,7 +36,7 @@ jumia_scrape/
 └── README.md             # Project documentation
 
 
-📊 Example Output
+Output Example
 
 The resulting dataset can contain information similar to:
 
@@ -50,13 +50,12 @@ The exact products and prices may change because the website's content changes o
  Currency Conversion
 
 The project can also be extended to convert scraped prices into another currency using an exchange-rate API or any other API ,i used *https://api.frankfurter.dev/v2/rates/*
-[.
 
 For example:
 
 KES → USD
 
-This makes the project useful not only for scraping but also for data transformation and analysis.
+This project is not only useful for scraping but also for data transformation and analysis.
 
  *What I Learned*
 
