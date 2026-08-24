@@ -35,50 +35,6 @@ jumia_scrape/
 ├── .gitignore            # Files excluded from Git
 └── README.md             # Project documentation
 
-*How It Works*
-
-The scraper follows these basic steps:
-
-Jumia Kenya
-     ↓
-Send HTTP Request
-     ↓
-Receive HTML
-     ↓
-Parse HTML with BeautifulSoup
-     ↓
-Find Product Information
-     ↓
-Extract Prices & Product Details
-     ↓
-Store Data
-     ↓
-CSV / JSON
-▶️ Installation
-1. Clone the repository
-git clone https://github.com/patrickmnj/jumia_scrape.git
-2. Navigate to the project directory
-cd price_practice
-3. Create a virtual environment
-python -m venv .venv
-4. Activate the virtual environment
-
-Windows:
-
-.venv\Scripts\activate
-
-Git Bash:
-
-source .venv/Scripts/activate
-5. Install dependencies
-pip install -r requirements.txt
-▶️ Running the Scraper
-
-Run the Python script:
-
-python jumia_scrape.py
-
-The script retrieves the available product information and saves the results into a CSV file.
 
 📊 Example Output
 
