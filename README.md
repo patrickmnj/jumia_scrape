@@ -1,10 +1,10 @@
-Jumia Product Price Scraper*
+              *Jumia Product Price Scraper*
 
 A Python web scraping project that collects product information and prices from Jumia Kenya and organizes the data into a structured format for analysis.
 
 The project uses Requests and BeautifulSoup to retrieve and parse web page content, then saves the extracted product data for further analysis.
 
-*Project Overview*
+              *Project Overview*
 
 The goal of this project is to practice real-world web scraping and data processing using Python.
 
@@ -72,9 +72,8 @@ Working with JSON
 Using virtual environments
 Managing Python dependencies
 Using Git and GitHub
-Debugging web scraping problems
 
- *Challenges*
+                   *Challenges*
 
 One of the main challenges was identifying the correct HTML elements containing product information.
 
@@ -82,7 +81,7 @@ Some of the products have the actual prices and discounts
 
 This project helped me understand that web scraping requires both Python knowledge and the ability to inspect and understand HTML structure.
 
-🔮 Future Improvements
+            *Future Improvements*
 
 Possible improvements include:
 
@@ -90,27 +89,21 @@ Scrape more product categories
 
 Extract product ratings
 
-Extract number of reviews
-
 Extract product discounts
 
 Add pagination
 
 Add automatic currency conversion and current rate
 
-Increase number currency
-
-Store data in a database
+Increase number currencies used
 
 Use Pandas for data analysis
 
-Create price comparison charts
-
-⚠️ Disclaimer
+*Disclaimer*
 
 This is an educational project.
 
-👨‍💻 Author
+      *Author*
 
 Patrick Njuguna
 
