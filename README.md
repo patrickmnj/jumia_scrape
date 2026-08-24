@@ -56,7 +56,7 @@ Store Data
 CSV / JSON
 ▶️ Installation
 1. Clone the repository
-git clone https://github.com/patrickmnj/price_practice.git
+git clone https://github.com/patrickmnj/jumia_scrape.git
 2. Navigate to the project directory
 cd price_practice
 3. Create a virtual environment
