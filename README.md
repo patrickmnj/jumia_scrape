@@ -1,4 +1,4 @@
-* Jumia Product Price Scraper*
+Jumia Product Price Scraper*
 
 A Python web scraping project that collects product information and prices from Jumia Kenya and organizes the data into a structured format for analysis.
 
